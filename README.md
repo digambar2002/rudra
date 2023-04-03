@@ -23,5 +23,5 @@ https://www.hackerrank.com/domains/java
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/digambar2002/rudra/blob/main/assets/plan.png)
 
