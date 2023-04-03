@@ -1,6 +1,7 @@
 
 # Rudra
 
+![App Screenshot](https://i.imgur.com/dgtWbgv.png)
 
 
 ## Rsources
@@ -21,7 +22,5 @@ https://www.hackerrank.com/domains/java
 
 
 
-## Screenshots
 
-![App Screenshot](https://github.com/digambar2002/rudra/blob/main/assets/plan.png)
 
